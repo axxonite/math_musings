@@ -1,7 +1,7 @@
 title: Math Musings
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: muzie
+  email: dfilion@outlook.com
 description: > # this means to ignore newlines until "show_excerpts:"
   Dominic Filion-Guay's math musings.
 
@@ -15,36 +15,7 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: filionmignon
-    github:  muzie
-    # devto: jekyll
-    # dribbble: jekyll
-    # facebook: jekyll
-    # flickr:   jekyll
-    # instagram: jekyll
-    # linkedin: jekyll
-    # pinterest: jekyll
-    # youtube: jekyll
-    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-    # youtube_channel_name: CloudCannon
-    # telegram: jekyll
-    # googleplus: +jekyll
-    # microdotblog: jekyll
-    # keybase: jekyll
-
-    # Mastodon instances
-    # mastodon:
-    # - username: jekyll
-    #   instance: example.com
-    # - username: jekyll2
-    #   instance: example.com
-
-    # GitLab instances
-    # gitlab:
-    # - username: jekyll
-    #   instance: example.com
-    # - username: jekyll2
-    #   instance: example.com
+    github:  axxonite
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
