@@ -2,6 +2,38 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+@font-face {
+  font-family: "Crimson";
+  src: url("font/crimson-roman.woff") format("woff");
+}
+@font-face {
+  font-family: "Crimson";
+  src: url("font/crimson-italic.woff") format("woff");
+  font-style: italic;
+}
+@font-face {
+  font-family: "Crimson";
+  src: url("font/crimson-semibold.woff") format("woff");
+  font-weight: 600;
+}
+@font-face {
+  font-family: "Crimson";
+  src: url("font/crimson-semibolditalic.woff") format("woff");
+  font-style: italic;
+  font-weight: 600;
+}
+@font-face {
+  font-family: "Crimson";
+  src: url("font/crimson-bold.woff") format("woff");
+  font-weight: bold;
+}
+@font-face {
+  font-family: "Crimson";
+  src: url("font/crimson-bolditalic.woff") format("woff");
+  font-style: italic;
+  font-weight: bold;
+}
+
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";

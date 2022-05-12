@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "This post demonstrates post content styles"
+title: "Scanning"
 categories: junk
 author:
 - Bart Simpson
@@ -8,7 +8,7 @@ author:
 meta: "Springfield"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+The first step in any compiler or interpreter is scanning. The scanner takes in raw source code as a series of characters and groups it into a series of chunks we call tokens. These are the meaningful “words” and “punctuation” that make up the language’s grammar.
 
 ## Some great heading (h2)
 

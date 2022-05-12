@@ -1,0 +1,79 @@
+@charset "UTF-8";
+@font-face {
+  font-family: "Crimson";
+  src: url("font/crimson-roman.woff") format("woff");
+}
+@font-face {
+  font-family: "Crimson";
+  src: url("font/crimson-italic.woff") format("woff");
+  font-style: italic;
+}
+@font-face {
+  font-family: "Crimson";
+  src: url("font/crimson-semibold.woff") format("woff");
+  font-weight: 600;
+}
+@font-face {
+  font-family: "Crimson";
+  src: url("font/crimson-semibolditalic.woff") format("woff");
+  font-style: italic;
+  font-weight: 600;
+}
+@font-face {
+  font-family: "Crimson";
+  src: url("font/crimson-bold.woff") format("woff");
+  font-weight: bold;
+}
+@font-face {
+  font-family: "Crimson";
+  src: url("font/crimson-bolditalic.woff") format("woff");
+  font-style: italic;
+  font-weight: bold;
+}
+body, h1, h2, h3, h4, p, blockquote, code, ul, ol, dl, dd, img {
+  margin: 0;
+}
+body {
+  color: #222;
+  font: normal 16px/24px "Crimson", Georgia, serif;
+}
+h1 {
+  position: relative;
+  font: 48px/48px "Crimson", Georgia, serif;
+  padding: 109px 0 19px 0;
+  z-index: 2;
+}
+article p {
+  margin: 24px 0;
+}
+body {
+  color: #222;
+  font: normal 16px/24px "Crimson", Georgia, serif;
+}
+@media only screen and (max-width: 1344px) {
+  body {
+    margin: 0 24px;
+  }
+
+  .page {
+    position: relative;
+    width: inherit;
+    max-width: 912px;
+    margin: 0 auto;
+  }
+
+  article {
+    width: inherit;
+    margin-right: 336px;
+  }
+  article .number {
+    top: 73px;
+    left: inherit;
+    right: 0;
+    font-size: 72px;
+  }
+  article h1 {
+    padding: 110px 0 18px 0;
+    font-size: 44px;
+  }
+}
