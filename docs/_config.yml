@@ -29,4 +29,4 @@ plugins:
  - jekyll-feed
  - jekyll-seo-tag
 
-exclude: [experiments]
+exclude: [archived]
