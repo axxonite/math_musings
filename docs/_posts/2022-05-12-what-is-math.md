@@ -20,7 +20,7 @@ Yet behind this simplicity is hidden a deeper question: mathematics does not con
 
 It's easy to visualize what one cookie represents. But what about visualizing what "one" means? When we add one to another one, then another, and so forth, and keep going until we proclaim this goes on forever, to infinity, how exactly do we develop an intuition for infinity? 
 
-Infinity was already a hard enough concept to grasp, and then mathematician George Cantor showed up in {year} and satisfyingly showed - through mathematical deduction - that some infinites are, in fact, bigger than some other infinites. There are more real numbers than there are natural numbers, even though both are infinite. What? Suddenly, visualization and intuition fail. What does this even mean? 
+Infinity was already a hard enough concept to grasp, and then mathematician Georg Cantor showed up in the 19th century and satisfyingly showed - through mathematical deduction - that some infinites are, in fact, bigger than some other infinites. There are more real numbers than there are natural numbers, even though both are infinite. What? Suddenly, visualization and intuition fail. What does this even mean? 
 
 What is mathematics even talking *about*?
 
@@ -31,8 +31,6 @@ Plato's belief was that numbers actually *existed* somewhere, independently of u
 It's a view that feels somewhat mystical or even quasi-religious, produces suitably awe-inspiring quotes ("mathematics is part of the fabric of the universe!"), yet seems to add a layer of *something* that doesn't, in the end, really explain anything new.
 
 An alternate view from Plato's is that mathematics is nothing more than a set of elaborate mind games that humans *invented*. Pick a small set of axioms, infer everything that derives from those axioms and *voilà*, you have some mathematics. Because humans live in this universe, we will be inclined to pick axioms that match behaviors seen in our universe - or that seem the most useful. If I'm trading three sheep for your seven goats I need a way to know if I'm getting a good deal, so I'm going to invent ways to count sheep and goats. In this scenario, the mathematical rules can be used to approximately (emphasis on *proxy* here) decribe the universe. But they're not *embedded* in it. They're not a thing.
-
-I'm a proponent of the latter perspective. More on this below.
 
 #### More of the same
 
@@ -66,11 +64,11 @@ Through algebra, the clever trick is usually to figure out parts of the formula 
 
 I believe studying mathematics by implementing it on computers is a wonderful way to better understand mathematics as a set of rules without getting bogged down in methaphysical insecurities.
 
-Computers offer a version of mathematics that *has* to be rooted in the real world. 
+Computers offer a version of mathematics that *has* to be rooted in process, in the real world. 
 
 #### References
 
 - [What is mathematics?](https://www.newyorker.com/culture/culture-desk/what-is-mathematics)
 - [Intuitionism](https://en.wikipedia.org/wiki/Intuitionism)
 - [Constructivism](https://en.wikipedia.org/wiki/Constructivism_(philosophy_of_mathematics))
-- [Actual vs potential infinity](https://en.wikipedia.org/wiki/Actual_infinity)
+- [Does infinity exist?](https://plus.maths.org/content/does-infinity-exist)
