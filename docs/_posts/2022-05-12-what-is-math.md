@@ -48,6 +48,10 @@ In short, *mathematics* is a mental construct. When one learns of the concept of
 
 Yet there is not necessarily a need to develop an intuition for what infinity is, or what infinities of different sizes might mean intuitively, because we don't have any proof that infinities of any size exist in our universe. The infinitely small may not exist either. Mathematics offers a model and a set of rules for *how things would work* if such things exist, but such doesn't guarantee that the real universe makes use of every concept in mathematics.
 
+
+## Work In Progress
+
+
 #### Follow the rules
 
 Many of the rules of mathematics that seem intangible are the result of a process that is assumed to go on "forever". Convergence of an infinite series tries to figure out where a formula will end up if you keep applying it forever. Derivative of a function tries to figure out the slope of a function if you were to "zoom in" forever on it. 
