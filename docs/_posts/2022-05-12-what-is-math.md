@@ -14,7 +14,7 @@ Mathematics education begins, as children, with simple counting (addition). Coun
 
 As we learn to count we develp an intuition for math. If I promise you a cookie, and I promess you another cookie, the intuition that you now will have two cookies and that two cookies is more (and better, if you like cookies) than one cookie seems self-evident. We learm to write this as $$ 1 + 1 = 2 $$ and don't think much of it. 
 
-#### Failures of intuition, to infinity and beyond
+#### Failures of intuition
 
 Yet behind this simplicity is hidden a deeper question: mathematics does not concern itself with defining what we mean by "cookie". *True* mathematics only deals with abstract quantities, stripped from anchors to real world objects, which suggests a first hint that, perhaps, what seems so intuitive isn't so intuitive after all. 
 
@@ -42,32 +42,27 @@ Nature doesn't have a neat delineation for what a cookie is - or anything else f
 
 Counting is pattern matching. Counting is classification. Without either there is nothing to count. Counting is slicing the universe into parts that seem related or the same and keeping tracks of those parts. We only need to count and add because we intuitively *divided* in the first place.
 
+#### To infinity and beyond
+
 In short, *mathematics* is a mental construct. When one learns of the concept of infinity it's natural to try to apply it to the notion of our universe. When thinking of infinities of different sizes we might clumsily think of our infinite universe somehow jammed inside an *even bigger* infinite universe. Mind blown!
 
 Yet there is not necessarily a need to develop an intuition for what infinity is, or what infinities of different sizes might mean intuitively, because we don't have any proof that infinities of any size exist in our universe. The infinitely small may not exist either. Mathematics offers a model and a set of rules for *how things would work* if such things exist, but such doesn't guarantee that the real universe makes use of every concept in mathematics.
 
 #### Follow the rules
 
+Many of the rules of mathematics that seem intangible are the result of a process that is assumed to go on "forever". Convergence of an infinite series tries to figure out where a formula will end up if you keep applying it forever. Derivative of a function tries to figure out the slope of a function if you were to "zoom in" forever on it. 
 
+Through algebra, the clever trick is usually to figure out parts of the formula that cancel each other so that you don't have to, in fact, spend eternity computing the series to get an answer. (verify this)
+
+
+** Notes about how ultimately mathematics is about following a process, and a set of rules, and to not get bogged down about trying to find a mental representation **
+** Mathematics happens by process and construction, not through the ethereal existing of objects **
 
 #### Safety in numbers
 
+I believe studying mathematics by implementing it on computers is a wonderful way to better understand mathematics as a set of rules without getting bogged down in methaphysical insecurities.
 
-
-#### The qualia of one
-
-I can think of the color blue. I know an object is blue when I see it. Blue could be defined as the frequencies roughly betweeen {x-y} in the spectral frequency range - but that range only matters because it has been singled out by the human experience. *Blue* is purely seen from a human viewpoint. We could have instead assigned the word *blue* to the temperature range between 10 and 11 degrees celsius. Or to a speed of about 5 miles per hour. But we did no such thing, because we are not equipped with senses accurate enough to distinguish temperatures and speeds as we do with hues. 
-
-In fact, some humans have never seen, and never will, see the color blue, and it's safe to say if the world was populated solely with such humans, blue would not enter human consciousness at all. Without the human experience, blue is an arbitrarily defined, non-d
-
-What if "one" could be considered the same?
-
-That doesn't mean "blue" is an item in a metaphysical universe. 
-
-*** having trouble with this section *** what's my point?
-
-
-
+Computers offer a version of mathematics that *has* to be rooted in the real world. 
 
 #### References
 
